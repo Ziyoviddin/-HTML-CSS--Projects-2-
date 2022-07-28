@@ -1,0 +1,49 @@
+body{
+    margin: 0;
+    
+  }
+  main{
+    background-image: url("https://wallpaper.dog/large/5663.jpg");
+    color: #ffd;
+  }
+  #img-div{
+   display: block;
+   margin: 0 auto;
+  }
+  h1, p, figcaption{
+    text-align: center;
+  }
+  figcation{
+    display: block;
+  }
+  #img-caption{
+    margin-top: 5px;
+    font-family: Georgia, serif;
+  }
+  #image{
+    display: block;
+    max-width: 100%;
+    margin: 0 auto;
+    height: auto;
+    border-radius: 3.5px;
+  }
+  #tribute-info{
+    display:block; 
+  }
+  .points{
+    margin: 3px ;
+    margin-bottom: 20px;
+  }
+  .ulContainer{
+    margin: auto;
+    width: 80%;
+    margin-top: 8px;
+    border-radius: 4.25px;
+  }
+  #tribute-link{
+    background-color: #345490;
+    color: #fff;
+  }
+  #tribute-link:hover{
+    background-color: coral;
+  }
